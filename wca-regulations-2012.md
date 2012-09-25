@@ -46,6 +46,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - 2a2) Meets the competition requirements, which must be clearly announced before the competition.
   - 2a3) Is not suspended by WCA Board.
 - 2b) Competitors below the age of 18 must obtain consent from their parent(s)/guardian(s) to register and compete.
+[NOTE: Whose responsibility is it to verify that this is done?]
 - 2c) Competitors shall register by providing all information required by the organisation team (including: name, country, date of birth, gender, contact information, selected events).
   - 2c1) A competitor shall not be eligible to compete without a completed registration, as determined by the organisation team.
 - 2d) A competitor's name, country, gender, and competition results are considered public information. All other personal information is considered confidential, and must not be disclosed to outside organisations/persons without the consent of the competitor.
@@ -134,8 +135,10 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
 
 - 7a) A competition may be held at any location, indoors or outdoors.
 - 7b) Spectators must remain at least 1.5 metres away from the competition stage when it is in use.
+[NOTE: 7b seems like it might be a challenge to enforce.  I would be concerned if a competitor could require an extra chance at a solve if this is violated.  Also, we often do not have an actual stage - what constitutes the "stage"?]
 - 7c) Lighting of the competition area must be given special attention. Lighting should be neutral, such that competitors can easily differentiate among the colours on the puzzles.
 - 7e) The competition area must be smoke-free, and must have a reasonable noise-level.
+[NOTE: Using the word "must" with "reasonable" seems problematic - who decides whether or not it is reasonable?]
 - 7f) Solving station:
   - 7f1) Definitions:
     - 7f1a) Stackmat: The Speedstacks Stackmat timer and a full-size compatible mat.
@@ -201,7 +204,8 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - 9i2) Results of official WCA competitions are dated to the calendar date of the competition. If a competition spans multiple days, the results of each round are dated to the last scheduled calendar date of the round.
   - 9i3) If the WCA Regulations for an event are changed, existing regional records stand until they are broken under the new WCA Regulations.
 - 9j) Each event shall be held at most once per competition.
-- 9k) All competitors may participate in all events of a competition.
+- 9k) Any competitors may participate in any event of a competition.
+[NOTE: As originally written, 9k could be interpreted to be in disagreement with Z2 or Z5.  I think this is better, but I'm not sure it's not still unclear.]
 - 9l) Each round must be completed before any following round of the same event starts.
 - 9m) Events must have at most four rounds.
   - 9m1) Events with 99 or fewer competitors must have at most three rounds.
@@ -212,10 +216,11 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - 9p1) At least 25% of competitors must be eliminated between consecutive rounds of the same event.
   - 9p2) The competitors who advance to the next round must be determined by either a cutoff ranking or a cutoff time in the preceding elimination round. The cutoff must be specified before the preceding elimination round starts.
   - 9p3) If a qualifying competitor withdraws from a round, he may be replaced by the best-ranked competitor below the cutoff from the preceding round.
-- 9r) A qualification round must be held before the first round of the event.
+- 9r) If a qualification round is held, it must be held before the first round of the event.
+[NOTE: I think the other wording is too confusing; this seems clearer.]
   - 9r1) When announcing an event, the organisation team must include:
     - 9r1a) Any limit to the number of competitors permitted in the first round of the event.
-    - 9r1b) Any limit to the number of competitors permitted in the qualification round of the event, and any limit tothe maximum number of those competitors who will proceed to the first round.
+    - 9r1b) Any limit to the number of competitors permitted in the qualification round of the event, and any limit to the maximum number of those competitors who will proceed to the first round.
     - 9r1c) The average/mean result or single solve result, achieved in previous competition, required to qualify directly for the first round of the event.
     - 9r1d) The latest permitted date used to determine the qualifying average/mean result or single solve result on the WCA rankings.
   - 9r2) Each competitor of an event who has not directly qualified for the first round of the event must compete in the qualification round in order to participate in the first round.
@@ -252,6 +257,7 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
 - 11b) If an incident occurs, the WCA Delegate shall determine an impartial and appropriate course of action.
 - 11d) If the WCA Regulations are not fully clear or if the incident is not covered by the WCA Regulations, then the WCA Delegate must make his decision based on fair sportsmanship.
 - 11e) If an incident occurs during an attempt, the WCA Delegate may award a competitor an extra attempt, replacing the attempt during which the incident occurred. The competitor must appeal at the time of the incident, before finishing the original attempt, to be eligible for an extra attempt. An appeal does not guarantee the competitor an extra attempt.
+[NOTE: I think 11e is unnecessarily complex. The competitor will need to understand a rather complex rule here to know that they must appeal prior to stopping the timer.  And if the incident involves a timer, this could get really complicated.  I'm afraid this rule will generate headaches.  I'm not sure of the best way to fix it, though.]
   - 11e1) If a competitor is awarded an extra attempt, the extra attempt must be scrambled using a different scramble sequence. This scramble sequence must be generated using the current official version of the official WCA scramble program (see Regulation 4f).
 - 11f) The WCA Delegate must not support his decisions with video or photographic analysis. However, a competitor may submit video or photographic evidence supporting an appeal to the WCA Board.
 
@@ -376,7 +382,8 @@ The use of the words "must", "must not", "shall", "shall not", "should", "should
   - B2c) The competitor must have no physical contact with the puzzle before the beginning of the attempt. Penalty: time penalty (+2 seconds).
   - B2d) The competitor starts the attempt by removing his hands from the timer, thus starting the timer.
     - B2d1) The competitor removes the cover from the puzzle after starting the timer.
-  - B2e) If a stopwatch is in use, the judge shall start the stopwatch as soon as the competitor starts the solve.
+  - B2e) If a stopwatch is in use, the judge shall start the stopwatch as soon as the competitor starts the attempt.
+  [NOTE: I think "solve" is too vague; "attempt" matches the language in B2d, and seems better to me.]
 - B3) Memorisation phase:
   - B3a) The competitor may pick up the puzzle during the memorisation.
   - B3b) The competitor must not make physical notes. Penalty: disqualification of the attempt (DNF).

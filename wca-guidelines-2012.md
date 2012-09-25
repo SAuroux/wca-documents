@@ -32,6 +32,7 @@ Note the following:
 - 2c) [ADDITION] Competitors must not provide intentionally misleading information, and returning competitors should provide information consistent with past information (e.g. exact name and WCA ID).
 - 2d) [ADDITION] Date of birth and contact information should be especially secured.
 - 2d) [RECOMMENDATION] If a third party (e.g. journalist) asks the organisation team to be put in contact with any competitor(s), the competitor(s) should first be asked for consent.
+[NOTE: I know it says "should", but can clarification be given for 2e?  In the USA, we often do not ask for identification for people claiming to be US citizens.  Is this allowed/forbidden/tolerated?]
 - 2h) [CLARIFICATION] Competitors may be barefoot for Solving With Feet.
 - 2j2) [EXAMPLE] For example, if a competitor is disqualified from an event for failing to show up for the final round, his results from earlier rounds remain valid.
 - 2s3) [REMINDER] Special accommodations shall be noted in the Delegate Report.
